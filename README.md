@@ -12,32 +12,32 @@ Features:
 
 
 Tech Stack Used
-🔹 **Frontend & Backend:** Streamlit (Python)
-🔹 **Database:** ChromaDB (for progress tracking)
-🔹 **AI Model:** Mistral (via Ollama)
+-> **Frontend & Backend:** Streamlit (Python)
+-> **Database:** ChromaDB (for progress tracking)
+-> **AI Model:** Mistral (via Ollama)
 
 
 Installation Guide
-1️⃣ **Clone the Repository**
+1️. **Clone the Repository**
 ```bash
 git clone https://github.com/K-Dhaksha/Algorithmus-Maxima.git
 cd eduai-tutor
 ```
-2️⃣ **Install Dependencies**
+2. **Install Dependencies**
 ```bash
 pip install -r requirements.txt  # Install required libraries
 ```
-3️⃣ **Run the Application**
+3️. **Run the Application**
 ```bash
 streamlit run main.py  # Start the AI Tutor UI
 ```
 
 How to Use the MVP
-1️⃣ **Run the application** (`streamlit run main.py`).
-2️⃣ **Select your grade, subject, and topic.**
-3️⃣ **AI Tutor teaches the topic with explanations.**
-4️⃣ **Take a quiz and see your progress tracked.**
-5️⃣ **AI adapts learning based on your performance.**
+1️. **Run the application** (`streamlit run main.py`).
+2️. **Select your grade, subject, and topic.**
+3️. **AI Tutor teaches the topic with explanations.**
+4️. **Take a quiz and see your progress tracked.**
+5️. **AI adapts learning based on your performance.**
 
 ---
 
@@ -51,9 +51,9 @@ eduai-tutor/
 
 
 Future Scope
-🔹 **Voice-based interaction** – Talk to the AI tutor.
-🔹 **Student Reports** – Teachers can keep track of students.
-🔹 **Study Plan Generator** – AI-driven learning schedules.
+- **Voice-based interaction** – Talk to the AI tutor.
+- **Student Reports** – Teachers can keep track of students.
+- **Study Plan Generator** – AI-driven learning schedules.
 
 
 Contributors
